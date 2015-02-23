@@ -3,4 +3,4 @@
 
 Target file:  src/../TicTacStartNDSActivity.java
 
-Android application that simulates a game of Tic-Tac-Toe for two players.
+Freshman Android application that simulates a game of Tic-Tac-Toe for two players.
